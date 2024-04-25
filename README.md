@@ -109,7 +109,7 @@ Animtion by clothing component, if wearing specific clothing such as a holster t
 
 
 
-**Added Radial Menu by Maske0629**
+**Added Radial Menu by Maske0629/intrp**
 
 
 
